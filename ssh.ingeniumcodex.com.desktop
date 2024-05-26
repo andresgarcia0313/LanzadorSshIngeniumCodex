@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Conectar A Ingenium Codex
+Comment=Conectar al servidor SSH Ingenium
+Exec=~/Desarrollo/Bash/LanzadorSshIngeniumCodex/connect_ingenium.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
